@@ -1,0 +1,30 @@
+[
+    {
+        "id":0,
+        "nombre":"ejemplo 1",
+        "descripcion":"bueno lo que sea",
+        "listo":false
+
+    },
+    {
+        "id":1,
+        "nombre":"ejemplo 2",
+        "descripcion":"bueno lo que sea",
+        "listo":false
+
+    },
+    {
+        "id":2,
+        "nombre":"ejemplo 3",
+        "descripcion":"bueno lo que sea",
+        "listo":false
+
+    },
+    {
+        "id":3,
+        "nombre":"ejemplo 4",
+        "descripcion":"bueno lo que sea",
+        "listo":false
+
+    }
+]
